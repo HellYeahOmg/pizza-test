@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/pizza-test/static/js/main.a9d1e835.chunk.js",
-    "main.js.map": "/pizza-test/static/js/main.a9d1e835.chunk.js.map",
+    "main.js": "/pizza-test/static/js/main.2e0d8160.chunk.js",
+    "main.js.map": "/pizza-test/static/js/main.2e0d8160.chunk.js.map",
     "runtime-main.js": "/pizza-test/static/js/runtime-main.fcf3dad0.js",
     "runtime-main.js.map": "/pizza-test/static/js/runtime-main.fcf3dad0.js.map",
     "static/js/2.1a429060.chunk.js": "/pizza-test/static/js/2.1a429060.chunk.js",
     "static/js/2.1a429060.chunk.js.map": "/pizza-test/static/js/2.1a429060.chunk.js.map",
     "index.html": "/pizza-test/index.html",
-    "precache-manifest.cf0e5b5630fae23f29b33b3219da69ad.js": "/pizza-test/precache-manifest.cf0e5b5630fae23f29b33b3219da69ad.js",
+    "precache-manifest.8353922a780682151553d344b0d8728b.js": "/pizza-test/precache-manifest.8353922a780682151553d344b0d8728b.js",
     "service-worker.js": "/pizza-test/service-worker.js",
     "static/js/2.1a429060.chunk.js.LICENSE.txt": "/pizza-test/static/js/2.1a429060.chunk.js.LICENSE.txt",
     "static/media/Montserrat-Black.ttf": "/pizza-test/static/media/Montserrat-Black.6d1796a9.ttf",
@@ -37,6 +37,6 @@
   "entrypoints": [
     "static/js/runtime-main.fcf3dad0.js",
     "static/js/2.1a429060.chunk.js",
-    "static/js/main.a9d1e835.chunk.js"
+    "static/js/main.2e0d8160.chunk.js"
   ]
 }
