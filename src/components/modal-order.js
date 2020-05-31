@@ -4,7 +4,7 @@ import styled from "styled-components";
 import { Button } from "./ui/button";
 
 export const ModalOrder = ({ open, closeModal }) => (
-  <Modal width={35} open={open} closeModal={closeModal}>
+  <Modal height={"20rem"} width={35} open={open} closeModal={closeModal}>
     <form>
       <Label>
         Адрес доставки

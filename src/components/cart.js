@@ -68,7 +68,7 @@ export const Cart = ({
           Заказать
         </Button>
         <ContentMediumBold>
-          Итого: {totalPrice + deliveryCost} $
+          Итого: {(totalPrice + deliveryCost).toFixed(2)} $
         </ContentMediumBold>
       </OrderItem>
     </Wrapper>
@@ -77,6 +77,9 @@ export const Cart = ({
 
 const Title = styled(ContentLarge)`
   width: 20rem;
+  @media (max-width: 443px) {
+    width: auto;
+  }
 `;
 
 const OrderItem = styled.div`
@@ -93,9 +96,12 @@ const Wrapper = styled.div`
   padding: 1.2rem;
   display: flex;
   flex-direction: column;
-  height: ${(props) => `calc(20rem + ${props.itemsCount * 4.15}rem)`};
+  height: ${(props) => `calc(18rem + ${props.itemsCount * 4.8}rem)`};
   @media (max-width: 880px) {
     margin-top: 0;
+  }
+  @media (max-width: 443px) {
+    min-width: auto;
   }
 `;
 

@@ -9,11 +9,13 @@ export const ModalMobileCart = ({
   closeModal,
   showOrder,
 }) => (
-  <Modal closeModal={closeModal} open={open}>
-    <Cart
-      showModal={showOrder}
-      cartItems={cartItems}
-      handleQuantity={handleQuantity}
-    />
+  <Modal height={"80vh"} closeModal={closeModal} open={open}>
+    <div style={{ overflow: "scroll" }}>
+      <Cart
+        showModal={showOrder}
+        cartItems={cartItems}
+        handleQuantity={handleQuantity}
+      />
+    </div>
   </Modal>
 );
