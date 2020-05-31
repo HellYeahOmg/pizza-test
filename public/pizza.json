@@ -1,0 +1,66 @@
+[
+  {
+    "img": "https://www.delivery-club.ru/media/cms/relation_product/23103/301755228_m650.jpg",
+    "price": 5.7,
+    "title": "Цезарь",
+    "ingredients": "Соус «Цезарь»,  цыпленок, томаты и моцарелла"
+  },
+  {
+    "img": "https://www.delivery-club.ru/media/cms/relation_product/23103/301755231_m650.jpg",
+    "price": 5.7,
+    "title": "Чикен BBQ",
+    "ingredients": "Соус фирменный, цыпленок, бекон, лук красный, соус BBQ"
+  },
+  {
+    "img": "https://www.delivery-club.ru/media/cms/relation_product/23103/301755211_m650.jpg",
+    "price": 5.7,
+    "title": "Диабло",
+    "ingredients":
+    "Соус фирменный, сыр моцарелла, курица, помидоры, перец сладкий, шампиньоны, острый перчик холопеньо, лук красный"
+  },
+  {
+    "img": "https://www.delivery-club.ru/media/cms/relation_product/23103/301755196_m650.jpg",
+    "price": 4.56,
+    "title": "4 сыра",
+    "ingredients": "Сливки, много сыра моцарелла, дор блю, чеддер"
+  },
+  {
+    "img": "https://www.delivery-club.ru/media/cms/relation_product/23103/301755215_m650.jpg",
+    "price": 4.56,
+    "title": "Гавайская",
+    "ingredients": "Фирменный соус, ананасы, моцарелла и цыпленок"
+  },
+  {
+    "img": "https://www.delivery-club.ru/media/cms/relation_product/23103/301755198_m650.jpg",
+    "price": 4.99,
+    "title": "Маргарита",
+    "ingredients": "Фирменный соус, много сыра моцарелла"
+  },
+  {
+    "img": "https://www.delivery-club.ru/media/cms/relation_product/23103/301755220_m650.jpg",
+    "price": 5.7,
+    "title": "Мясная",
+    "ingredients":
+    "Соус фирменный, моцарелла, курица, салями, ветчина, лук красный"
+  },
+  {
+    "img": "https://www.delivery-club.ru/media/cms/relation_product/23103/301755222_m650.jpg",
+    "price": 5.35,
+    "title": "Пепперони",
+    "ingredients": "Соус фирменный, много сыра моцарелла, пепперони"
+  },
+  {
+    "img": "https://www.delivery-club.ru/media/cms/relation_product/23103/301755200_m650.jpg",
+    "price": 6.42,
+    "title": "Дары моря",
+    "ingredients":
+    "Фирменный соус, маслины, сладкий перец, лук красный, моцарелла и креветки"
+  },
+  {
+    "img": "https://www.delivery-club.ru/media/cms/relation_product/23103/301755203_m650.jpg",
+    "price": 5.7,
+    "title": "Веган",
+    "ingredients":
+    "фирменный соус, маслины, сладкий перец,  лук красный, моцарелла,  томаты, шампиньоны,  кубики брынзы и базилик"
+  }
+]
