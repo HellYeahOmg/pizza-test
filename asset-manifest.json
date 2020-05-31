@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.js": "/pizza-test/static/js/main.c2898a10.chunk.js",
+    "main.js.map": "/pizza-test/static/js/main.c2898a10.chunk.js.map",
+    "runtime-main.js": "/pizza-test/static/js/runtime-main.fcf3dad0.js",
+    "runtime-main.js.map": "/pizza-test/static/js/runtime-main.fcf3dad0.js.map",
+    "static/js/2.1a429060.chunk.js": "/pizza-test/static/js/2.1a429060.chunk.js",
+    "static/js/2.1a429060.chunk.js.map": "/pizza-test/static/js/2.1a429060.chunk.js.map",
+    "index.html": "/pizza-test/index.html",
+    "precache-manifest.7f9b81ed8ccb6962b41ebe1b0dfe918d.js": "/pizza-test/precache-manifest.7f9b81ed8ccb6962b41ebe1b0dfe918d.js",
+    "service-worker.js": "/pizza-test/service-worker.js",
+    "static/js/2.1a429060.chunk.js.LICENSE.txt": "/pizza-test/static/js/2.1a429060.chunk.js.LICENSE.txt",
+    "static/media/Montserrat-Black.ttf": "/pizza-test/static/media/Montserrat-Black.6d1796a9.ttf",
+    "static/media/Montserrat-BlackItalic.ttf": "/pizza-test/static/media/Montserrat-BlackItalic.b5331c5f.ttf",
+    "static/media/Montserrat-Bold.ttf": "/pizza-test/static/media/Montserrat-Bold.88932dad.ttf",
+    "static/media/Montserrat-BoldItalic.ttf": "/pizza-test/static/media/Montserrat-BoldItalic.781190ae.ttf",
+    "static/media/Montserrat-ExtraBold.ttf": "/pizza-test/static/media/Montserrat-ExtraBold.9bc77c3b.ttf",
+    "static/media/Montserrat-ExtraBoldItalic.ttf": "/pizza-test/static/media/Montserrat-ExtraBoldItalic.09a2d256.ttf",
+    "static/media/Montserrat-ExtraLight.ttf": "/pizza-test/static/media/Montserrat-ExtraLight.38bc5e07.ttf",
+    "static/media/Montserrat-ExtraLightItalic.ttf": "/pizza-test/static/media/Montserrat-ExtraLightItalic.6885cd49.ttf",
+    "static/media/Montserrat-Italic.ttf": "/pizza-test/static/media/Montserrat-Italic.67865463.ttf",
+    "static/media/Montserrat-Light.ttf": "/pizza-test/static/media/Montserrat-Light.100b38fa.ttf",
+    "static/media/Montserrat-LightItalic.ttf": "/pizza-test/static/media/Montserrat-LightItalic.428b2306.ttf",
+    "static/media/Montserrat-Medium.ttf": "/pizza-test/static/media/Montserrat-Medium.a98626e1.ttf",
+    "static/media/Montserrat-MediumItalic.ttf": "/pizza-test/static/media/Montserrat-MediumItalic.287208c8.ttf",
+    "static/media/Montserrat-Regular.ttf": "/pizza-test/static/media/Montserrat-Regular.9c460951.ttf",
+    "static/media/Montserrat-SemiBold.ttf": "/pizza-test/static/media/Montserrat-SemiBold.c88cecbf.ttf",
+    "static/media/Montserrat-SemiBoldItalic.ttf": "/pizza-test/static/media/Montserrat-SemiBoldItalic.2d3cef91.ttf",
+    "static/media/Montserrat-Thin.ttf": "/pizza-test/static/media/Montserrat-Thin.0052573b.ttf",
+    "static/media/Montserrat-ThinItalic.ttf": "/pizza-test/static/media/Montserrat-ThinItalic.3cb62113.ttf",
+    "static/media/PT_Sans-Web-Bold.ttf": "/pizza-test/static/media/PT_Sans-Web-Bold.39709da0.ttf",
+    "static/media/PT_Sans-Web-BoldItalic.ttf": "/pizza-test/static/media/PT_Sans-Web-BoldItalic.f7840901.ttf",
+    "static/media/PT_Sans-Web-Italic.ttf": "/pizza-test/static/media/PT_Sans-Web-Italic.ba735c5f.ttf",
+    "static/media/PT_Sans-Web-Regular.ttf": "/pizza-test/static/media/PT_Sans-Web-Regular.70fda924.ttf",
+    "static/media/cart.svg": "/pizza-test/static/media/cart.4e4cb6a8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcf3dad0.js",
+    "static/js/2.1a429060.chunk.js",
+    "static/js/main.c2898a10.chunk.js"
+  ]
+}
