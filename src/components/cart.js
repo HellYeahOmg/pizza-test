@@ -67,9 +67,11 @@ export const Cart = ({
         <Button disabled={!cartItems.length} onClick={showModal}>
           Заказать
         </Button>
-        <ContentMediumBold>
-          Итого: {(totalPrice + deliveryCost).toFixed(2)} $
-        </ContentMediumBold>
+        {totalPrice !== 0 && (
+          <ContentMediumBold>
+            Итого: {(totalPrice + deliveryCost).toFixed(2)} $
+          </ContentMediumBold>
+        )}
       </OrderItem>
     </Wrapper>
   );
